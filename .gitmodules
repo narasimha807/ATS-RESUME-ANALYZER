@@ -1,0 +1,4 @@
+[submodule "frontend"]
+	url = https://github.com/narasimha807/ATS-RESUME-ANALYZER.git
+[submodule "Resume-ATS-Backend"]
+	url = https://github.com/narasimha807/ATS-RESUME-ANALYZER.git
